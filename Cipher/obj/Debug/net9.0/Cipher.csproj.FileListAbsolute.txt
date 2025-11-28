@@ -12,3 +12,4 @@ C:\Users\ashar\Documents\GitHub\Ciphers\Ciphers\Cipher\obj\Debug\net9.0\refint\C
 C:\Users\ashar\Documents\GitHub\Ciphers\Ciphers\Cipher\obj\Debug\net9.0\Cipher.pdb
 C:\Users\ashar\Documents\GitHub\Ciphers\Ciphers\Cipher\obj\Debug\net9.0\Cipher.genruntimeconfig.cache
 C:\Users\ashar\Documents\GitHub\Ciphers\Ciphers\Cipher\obj\Debug\net9.0\ref\Cipher.dll
+C:\Users\ashar\Documents\GitHub\Ciphers\Ciphers\Cipher\obj\Debug\net9.0\Cipher.sourcelink.json
