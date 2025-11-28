@@ -1,8 +1,7 @@
 using System;
 
 /*
-v1.0.1
-
+v1.0.0
 
 WRITTEN BY ASHAR 
 28.11.2025
@@ -18,7 +17,6 @@ CONTAINS:
     6. COLUMNAR CIPHER
     7. MORSE CODE
     8. PHONE CIPHER
-
 */
 
 class Cipher{

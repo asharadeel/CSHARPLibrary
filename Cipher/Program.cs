@@ -23,6 +23,15 @@ public class Program{
             Console.WriteLine("Enter another string to encode or type 'stop' to exit:");
             v1 = Console.ReadLine();
         }
+
+        // Example usage of NumberCipher
+        Console.WriteLine("\nNumber Cipher Examples:");
+        int number = 2006;
+        string roman = NumberCipher.Roman_Encode(number);
+        Console.WriteLine($"Roman Encode of {number}: {roman}");
+        int decodedNumber = NumberCipher.Roman_Decode(roman);
+        Console.WriteLine($"Roman Decode of {roman}: {decodedNumber}");
+
     }
 
     /// Encode all Ciphers
